@@ -5,5 +5,6 @@ The home page fetches data using API calls and the state is managed by a bloc st
 
 
 
-https://github.com/Pockerman20/Assignment_1/assets/90500919/ba4b87bc-7299-4700-8914-0ca041a1b031
+
+https://github.com/Pockerman20/Assignment_1/assets/90500919/7bbd6aca-3d68-42f5-937a-dbab0de5d2c8
 
