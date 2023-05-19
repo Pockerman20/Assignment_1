@@ -1,19 +1,8 @@
 # assignment_infoware
 
-A new Flutter project.
+This is the complete assignment with all the details provided in the question.
+The home page fetches data using API calls and the state is managed by a bloc state management tool. Whenever the user clicks on any product it routes to the detailed page of that same product and there is a drawer provided which will lead the user to other screens like the music page and form page.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 https://github.com/Pockerman20/Assignment_1/assets/90500919/ba4b87bc-7299-4700-8914-0ca041a1b031
